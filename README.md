@@ -10,6 +10,7 @@ AWS is a service fro building conversational applications using voice and/or tex
  Create an account in AWS using console.
 ## Step 2: 
 Create a bot using AWS Lex
+![Bot](/images/bot.png "Bot")
 ## Step 3: 
 Configure Intent.
 ## Step 4: 
